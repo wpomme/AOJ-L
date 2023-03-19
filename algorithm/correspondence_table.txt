@@ -1,0 +1,10 @@
+1 intro
+2 elementary-sorts
+3 basic-data-structure
+4 search
+5 divide-and-conquer
+6 sort
+7 tree
+8 binary-search-tree
+9 heap
+10 dynamic-programming
