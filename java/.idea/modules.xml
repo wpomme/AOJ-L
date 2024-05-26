@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PrintARectangle/PrintARectangle.iml" filepath="$PROJECT_DIR$/PrintARectangle/PrintARectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rectangle/Rectangle.iml" filepath="$PROJECT_DIR$/Rectangle/Rectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuredProgramming/StructuredProgramming.iml" filepath="$PROJECT_DIR$/StructuredProgramming/StructuredProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XCube/XCube.iml" filepath="$PROJECT_DIR$/XCube/XCube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.iml" filepath="$PROJECT_DIR$/java.iml" />
+    </modules>
+  </component>
+</project>
