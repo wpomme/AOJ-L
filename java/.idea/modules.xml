@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PrintARectangle/PrintARectangle.iml" filepath="$PROJECT_DIR$/PrintARectangle/PrintARectangle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Rectangle/Rectangle.iml" filepath="$PROJECT_DIR$/Rectangle/Rectangle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StructuredProgramming/StructuredProgramming.iml" filepath="$PROJECT_DIR$/StructuredProgramming/StructuredProgramming.iml" />
-      <module fileurl="file://$PROJECT_DIR$/XCube/XCube.iml" filepath="$PROJECT_DIR$/XCube/XCube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/introduction/FindingAWord/FindingAWord.iml" filepath="$PROJECT_DIR$/introduction/FindingAWord/FindingAWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/introduction/PrintARectangle/PrintARectangle.iml" filepath="$PROJECT_DIR$/introduction/PrintARectangle/PrintARectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/introduction/Rectangle/Rectangle.iml" filepath="$PROJECT_DIR$/introduction/Rectangle/Rectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/introduction/ReversingNumbers/ReversingNumbers.iml" filepath="$PROJECT_DIR$/introduction/ReversingNumbers/ReversingNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/introduction/StructuredProgramming/StructuredProgramming.iml" filepath="$PROJECT_DIR$/introduction/StructuredProgramming/StructuredProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/introduction/TogglingCases/TogglingCases.iml" filepath="$PROJECT_DIR$/introduction/TogglingCases/TogglingCases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/introduction/XCube/XCube.iml" filepath="$PROJECT_DIR$/introduction/XCube/XCube.iml" />
       <module fileurl="file://$PROJECT_DIR$/java.iml" filepath="$PROJECT_DIR$/java.iml" />
     </modules>
   </component>
