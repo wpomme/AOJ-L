@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/introduction/FindingAWord/FindingAWord.iml" filepath="$PROJECT_DIR$/introduction/FindingAWord/FindingAWord.iml" />
       <module fileurl="file://$PROJECT_DIR$/algorithm/NaiveStringSearch/NaiveStringSearch.iml" filepath="$PROJECT_DIR$/algorithm/NaiveStringSearch/NaiveStringSearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/introduction/PrintARectangle/PrintARectangle.iml" filepath="$PROJECT_DIR$/introduction/PrintARectangle/PrintARectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm/ReconstructionOfATree/ReconstructionOfATree.iml" filepath="$PROJECT_DIR$/algorithm/ReconstructionOfATree/ReconstructionOfATree.iml" />
       <module fileurl="file://$PROJECT_DIR$/introduction/Rectangle/Rectangle.iml" filepath="$PROJECT_DIR$/introduction/Rectangle/Rectangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/introduction/ReversingNumbers/ReversingNumbers.iml" filepath="$PROJECT_DIR$/introduction/ReversingNumbers/ReversingNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/introduction/StructuredProgramming/StructuredProgramming.iml" filepath="$PROJECT_DIR$/introduction/StructuredProgramming/StructuredProgramming.iml" />
