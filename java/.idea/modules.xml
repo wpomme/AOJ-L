@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/algorithm/ReconstructionOfATree/ReconstructionOfATree.iml" filepath="$PROJECT_DIR$/algorithm/ReconstructionOfATree/ReconstructionOfATree.iml" />
       <module fileurl="file://$PROJECT_DIR$/introduction/Rectangle/Rectangle.iml" filepath="$PROJECT_DIR$/introduction/Rectangle/Rectangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/introduction/ReversingNumbers/ReversingNumbers.iml" filepath="$PROJECT_DIR$/introduction/ReversingNumbers/ReversingNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShellSort/ShellSort.iml" filepath="$PROJECT_DIR$/ShellSort/ShellSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/introduction/StructuredProgramming/StructuredProgramming.iml" filepath="$PROJECT_DIR$/introduction/StructuredProgramming/StructuredProgramming.iml" />
       <module fileurl="file://$PROJECT_DIR$/introduction/TogglingCases/TogglingCases.iml" filepath="$PROJECT_DIR$/introduction/TogglingCases/TogglingCases.iml" />
       <module fileurl="file://$PROJECT_DIR$/introduction/XCube/XCube.iml" filepath="$PROJECT_DIR$/introduction/XCube/XCube.iml" />
