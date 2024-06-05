@@ -50,7 +50,7 @@ public class Main {
         }
     }
 
-    private static int insertionSort(List<Integer> a, int n, int g) {
+    private static void insertionSort(List<Integer> a, int n, int g) {
         for (int i = g; i < n; i++) {
             int v = a.get(i);
             int j = i - g;
@@ -61,6 +61,5 @@ public class Main {
             }
             a.set(j + g, v);
         }
-        return count;
     }
 }
