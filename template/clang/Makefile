@@ -1,5 +1,5 @@
 CC	= gcc
-CFLAGS	= -Wall --pedantic-error
+CFLAGS	= -Wall --pedantic-errors
 PROGRAM	= main
 DEBUG	= debug
 
